@@ -1,5 +1,5 @@
 
-# MAchine Learning and Statistics - Tasks 2020 - Assignment
+# Machine Learning and Statistics - Tasks 2020 - Assignment
 ## Eoin Lees - G00387888 - December 2020
 
 
